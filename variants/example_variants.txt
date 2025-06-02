@@ -1,0 +1,3 @@
+chr17	41242962	rs28934574	G	A	TP53	p.Arg248Gln	Pathogenic
+chr13	32914438	rs11540652	T	C	BRCA2	p.Ser1982Phe	Uncertain significance
+chr7	55259515	rs121913529	C	T	EGFR	p.Leu858Arg	Pathogenic
