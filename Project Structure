@@ -1,0 +1,9 @@
+llm-genomic-variant-interpretation/
+├── app.py
+├── interpreter.py
+├── requirements.txt
+├── variants/
+│   └── example_variants.txt
+├── models/
+│   └── [gpt4all model file]
+├── README.md
